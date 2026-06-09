@@ -1,6 +1,7 @@
 # Olá! Eu sou o Marcos Vinícius 👋
 
 🎓 **Engenheiro de Computação em formação pela UFES (7º período)**
+
 📊 **Focado em Dados, Inteligência Artificial e Pesquisa Operacional**
 
 Meu objetivo é resolver problemas complexos de negócios transformando dados brutos em soluções estratégicas. Tenho experiência em unir rigor matemático e desenvolvimento de software, atuando desde a Análise Exploratória (EDA) e criação de dashboards até a integração de modelos de IA (LLMs) e algoritmos de otimização.
